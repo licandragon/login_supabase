@@ -101,3 +101,11 @@ src/
 * Asegúrate de desactivar la confirmación por email en Supabase si estás en desarrollo
 
 ---
+
+## 📌 Notas
+* Asegúrate de desactivar la confirmación por email en Supabase si estás en desarrollo
+---
+
+## ⚡ LiveDemo (Vercel)
+
+[login-supabase-brown.vercel.app](login-supabase-brown.vercel.app)
